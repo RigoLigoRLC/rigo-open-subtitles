@@ -26,7 +26,7 @@ Should be used with: [Link](https://www.youtube.com/watch?v=07rtl-zcQhg)
 
 ### Remarks
 
-These four videos above belongs to a complete series of Minecraft music animations.
+These four videos above belong to a complete series of Minecraft music animations.
 
 ## Revenge.ass
 
