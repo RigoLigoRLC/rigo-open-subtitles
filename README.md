@@ -30,4 +30,4 @@ Subtitles for some music videos, which doesn't belong to karaoke subtitles.
 
 ## Licensing
 
-These subtitles are all released under CC0 license. Use them however you want -- this is effectively public domain.
+These subtitles are all released under CC0 license, unless otherwise noted. Use them however you want -- this is effectively public domain.
