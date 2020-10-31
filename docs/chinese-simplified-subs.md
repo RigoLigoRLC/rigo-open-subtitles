@@ -14,6 +14,8 @@ Everything wrong with Animation vs. Minecraft, an animation by Alan Becker.
 
 Should be used with: [Link](https://www.youtube.com/watch?v=_YEU2TalTcw) (Already private)
 
+[Result video](https://www.bilibili.com/video/BV1zs411J7bN/)
+
 ## FPGA VerilogBoy from WAA-ZephRay.ass
 
 A speech about the overall design of VerilogBoy, given by its creator, Zephray.
