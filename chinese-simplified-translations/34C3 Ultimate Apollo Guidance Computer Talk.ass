@@ -10,47 +10,99 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: ../../Downloads/34C3 -  The Ultimate Apollo Guidance Computer Talk - DASH.aac
-Video File: ../../Downloads/34C3 -  The Ultimate Apollo Guidance Computer Talk - DASH.mp4
+Last Style Storage: New 1
+Audio File: ../../../Downloads/34C3 -  The Ultimate Apollo Guidance Computer Talk - DASH.aac
+Video File: ../../../Downloads/34C3 -  The Ultimate Apollo Guidance Computer Talk - DASH.webm
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.450000
-Scroll Position: 18
-Active Line: 25
-Video Position: 3322
+Video Zoom Percent: 0.375000
+Scroll Position: 63
+Active Line: 79
+Video Position: 8962
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,等线,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Liberation Sans,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.45,0:00:22.88,Default,,0,0,0,,接下来的这个讲座，是关于一个很贴近主题的人类科技遗产
-Dialogue: 0,0:00:22.88,0:00:27.68,Default,,0,0,0,,第一台降落在月球上的电脑
-Dialogue: 0,0:00:27.68,0:00:30.28,Default,,0,0,0,,实际上，它也成为了一个标杆
-Dialogue: 0,0:00:30.28,0:00:34.97,Default,,0,0,0,,人们开始把其他的电脑架构和这台电脑比较
-Dialogue: 0,0:00:34.97,0:00:39.94,Default,,0,0,0,,什么体积啊运算速度之类的
-Dialogue: 0,0:00:40.25,0:00:44.80,Default,,0,0,0,,它是火箭科学，但是还要难些——是计算机火箭科学
-Dialogue: 0,0:00:44.80,0:00:50.80,Default,,0,0,0,,所以我很高兴能把这位火箭科学家，Christian Hessmann请到舞台上
-Dialogue: 0,0:00:50.80,0:00:56.28,Default,,0,0,0,,至于计算机的部分，我们有请Michael Steil
-Dialogue: 0,0:00:56.28,0:00:58.91,Default,,0,0,0,,他同时也是???项目的创始人
-Dialogue: 0,0:00:58.91,0:01:05.31,Default,,0,0,0,,他也在这个和许多其他的项目中获得了许多许多关于计算机和架构的经验
-Dialogue: 0,0:01:05.31,0:01:08.85,Default,,0,0,0,,所以请大家给这次的终极阿波罗导航计算机讲座以热烈的掌声吧
-Dialogue: 0,0:01:18.08,0:01:19.42,Default,,0,0,0,,欢迎！
-Dialogue: 0,0:01:19.54,0:01:20.80,Default,,0,0,0,,麦给我开了吗？
-Dialogue: 0,0:01:20.80,0:01:22.50,Default,,0,0,0,,能听见吗？\N——能
-Dialogue: 0,0:01:22.74,0:01:25.48,Default,,0,0,0,,欢迎大家聆听本次的 终极阿波罗导航计算机讲座
-Dialogue: 0,0:01:25.71,0:01:29.68,Default,,0,0,0,,或者说，是一次“易懂的计算机架构基础课”
-Dialogue: 0,0:01:29.68,0:01:31.31,Default,,0,0,0,,或者说，是一次“易懂的计算机架构及操作系统基础课” 
-Dialogue: 0,0:01:31.31,0:01:32.77,Default,,0,0,0,,或者说，是一次“易懂的计算机架构、操作系统及太空航行基础课” 
-Dialogue: 0,0:01:34.28,0:01:36.57,Default,,0,0,0,,我是Michael Steil\N——我是Christian Hessmann
-Dialogue: 0,0:01:37.80,0:01:40.68,Default,,0,0,0,,这次讲座是不同人发起的系列中的第六次
-Dialogue: 0,0:01:40.97,0:01:45.34,Default,,0,0,0,,主题就是在60分钟内尽可能多地讲解一款经典计算机系统
-Dialogue: 0,0:01:45.74,0:01:49.02,Default,,0,0,0,,阿波罗导航电脑，AGC，是一个数字计算机
-Dialogue: 0,0:01:49.02,0:01:56.98,Default,,0,0,0,,是特别为了装入阿波罗飞船，支持1969到1972年间的阿波罗计划从头开始设计的
-Dialogue: 0,0:01:57.45,0:02:04.45,Default,,0,0,0,,注：计算通货膨胀，折合2018年美元约1,697,800美元\N由麻省理工学院在1961到1966年间设计，共制造42台，每台造价二十万刀
-Dialogue: 0,0:02:04.91,0:02:12.28,Default,,0,0,0,,主频约1MHz，所有的数据都是15位，有2千字的RAM和36千字的ROM
-Dialogue: 0,0:02:12.85,0:02:18.02,Default,,0,0,0,,大概有大号手提箱那么大，重约32kg，功耗约55W
-Dialogue: 0,0:02:19.02,0:02:22.11,Default,,0,0,0,,它的用户界面是一个数字屏幕和键盘
-Dialogue: 0,0:02:22.60,0:02:24.11,Default,,0,0,0,,
+Dialogue: 0,0:00:14.77,0:00:22.86,Default,,0,0,0,,The following talk is about a very relevant piece of technological legacy of um, our human race
+Dialogue: 0,0:00:22.86,0:00:27.54,Default,,0,0,0,,The first piece of computer that landed on uh, our moon
+Dialogue: 0,0:00:27.54,0:00:33.70,Default,,0,0,0,,And actually it became a metric, people started to compare other architectures
+Dialogue: 0,0:00:33.70,0:00:39.62,Default,,0,0,0,,other computers in volumes of multiples of processing speed of this computer
+Dialogue: 0,0:00:39.62,0:00:44.54,Default,,0,0,0,,It's rocket science, but it's even harder, it's computer rocket science
+Dialogue: 0,0:00:44.54,0:00:50.86,Default,,0,0,0,,So I'm very happy to have Christian Hessmann or Hesse on stage, who is actually a rocket scientist
+Dialogue: 0,0:00:50.86,0:00:58.86,Default,,0,0,0,,And for the...for the computer part we have Michael Steil, who is the founder or the XBox Linux project
+Dialogue: 0,0:00:58.86,0:01:05.18,Default,,0,0,0,,And has gathered with this project and many others, lots and lots of experience around architectures of computers
+Dialogue: 0,0:01:05.18,0:01:08.98,Default,,0,0,0,,So please give a warm round of applause for the Ultimate Apollo Guidance Talk!
+Dialogue: 0,0:01:18.10,0:01:19.47,Default,,0,0,0,,Welcome!
+Dialogue: 0,0:01:19.66,0:01:22.45,Default,,0,0,0,,Is this on? Anyone can hear me?  --Yes.
+Dialogue: 0,0:01:22.80,0:01:25.50,Default,,0,0,0,,Welcome to the Ultimate Apollo Guidance Computer Talk
+Dialogue: 0,0:01:25.50,0:01:29.38,Default,,0,0,0,,aka a comprehensive introduction into computer architecture...
+Dialogue: 0,0:01:29.38,0:01:31.12,Default,,0,0,0,,aka a comprehensive introduction into computer architecture...and operating systems...
+Dialogue: 0,0:01:31.12,0:01:33.12,Default,,0,0,0,,aka a comprehensive introduction into computer architecture...and operating systems...and space flight.
+Dialogue: 0,0:01:34.28,0:01:36.44,Default,,0,0,0,,My name is Michael Steil.  --And I'm Christian Hessmann.
+Dialogue: 0,0:01:37.90,0:01:40.62,Default,,0,0,0,,This talk is number six in a series by various people
+Dialogue: 0,0:01:40.90,0:01:45.06,Default,,0,0,0,,The idea is to explain as much as possible about a classical computer system in 60 minutes
+Dialogue: 0,0:01:45.62,0:01:50.06,Default,,0,0,0,,The Apollo Guidance Computer, AGC, is a digital computer that was designed from scratch
+Dialogue: 0,0:01:50.06,0:01:53.02,Default,,0,0,0,,specifically for use onboard the Apollo spacecraft
+Dialogue: 0,0:01:53.02,0:01:56.98,Default,,0,0,0,,To support the Apollo moon landings between 1969 and 1972
+Dialogue: 0,0:01:57.42,0:02:04.42,Default,,0,0,0,,Developed at MIT between 1961 and 1966, a total 42 AGCs were built, at a cost of about 200,000 dollars each
+Dialogue: 0,0:02:04.94,0:02:08.38,Default,,0,0,0,,The base clock is about 1 megahertz, all data are 15 bits
+Dialogue: 0,0:02:08.38,0:02:12.34,Default,,0,0,0,,And there are 2 kilowords of RAM and 36 kiloword ROM...words of ROM
+Dialogue: 0,0:02:12.82,0:02:18.18,Default,,0,0,0,,It's about the size of a large suitcase, weighs 32 kilograms, and consumes about 55 watts.
+Dialogue: 0,0:02:18.90,0:02:21.86,Default,,0,0,0,,It's user interface is a numeric display and keyboard.
+Dialogue: 0,0:02:22.50,0:02:23.86,Default,,0,0,0,,Some historical context.
+Dialogue: 0,0:02:24.26,0:02:29.30,Default,,0,0,0,,In the mid-1960s, you couldn't just err...take an off-the-shelf computer and put it into the spacecraft.
+Dialogue: 0,0:02:29.66,0:02:31.78,Default,,0,0,0,,The first mini computerwass the size of a small fridge
+Dialogue: 0,0:02:31.78,0:02:36.14,Default,,0,0,0,,Too heavy, too power hungry and too slow for real time scientific calculations
+Dialogue: 0,0:02:37.14,0:02:39.68,Default,,0,0,0,,Even though the industry had come a long way since the previous decade
+Dialogue: 0,0:02:40.86,0:02:43.86,Default,,0,0,0,,Already 10 years later though, microcomputers with highly intergrated circuits
+Dialogue: 0,0:02:43.86,0:02:46.38,Default,,0,0,0,,started outclassing the AGC hardware in many regards
+Dialogue: 0,0:02:47.10,0:02:49.82,Default,,0,0,0,,There's many reasons that make AGC specially interesting
+Dialogue: 0,0:02:51.82,0:02:55.46,Default,,0,0,0,,The architecture is very 60s and feels very alien to us today
+Dialogue: 0,0:02:55.98,0:02:57.98,Default,,0,0,0,,The hardware is very innovated for its time
+Dialogue: 0,0:02:58.48,0:03:01.36,Default,,0,0,0,,It has some very interesting and unusual peripherals
+Dialogue: 0,0:03:01.86,0:03:04.22,Default,,0,0,0,,Its operating system was revolutionary for its time
+Dialogue: 0,0:03:04.44,0:03:08.74,Default,,0,0,0,,And the mission software has all the bits too, with the right hardware attached fly you to the moon
+Dialogue: 0,0:03:10.80,0:03:15.12,Default,,0,0,0,,In the Apollo program, the Apollo Guidance Computer was used in two unmanned test missions
+Dialogue: 0,0:03:15.12,0:03:18.54,Default,,0,0,0,,where with the remote control from the ground, and three manned test missions
+Dialogue: 0,0:03:18.54,0:03:20.74,Default,,0,0,0,,And the seven manned landing missions
+Dialogue: 0,0:03:21.14,0:03:24.30,Default,,0,0,0,,Astronauts hated the idea of giving any control to a computer
+Dialogue: 0,0:03:24.30,0:03:26.22,Default,,0,0,0,,They wanted to be in charge
+Dialogue: 0,0:03:26.22,0:03:29.00,Default,,0,0,0,,While it's a fallback, most of the mission could also be flown manually
+Dialogue: 0,0:03:29.00,0:03:30.56,Default,,0,0,0,,The mission planners got their way
+Dialogue: 0,0:03:31.14,0:03:34.14,Default,,0,0,0,,To understand the purpose and responsibilities of the Apollo Guidance Computer
+Dialogue: 0,0:03:34.14,0:03:35.94,Default,,0,0,0,,we need to first look at the Apollo mission
+Dialogue: 0,0:03:35.94,0:03:40.66,Default,,0,0,0,,The core strategy of the Apollo program was, instead of landing a complete spacecraft on the moon
+Dialogue: 0,0:03:40.66,0:03:43.60,Default,,0,0,0,,for which an extremely large rocket would have been required
+Dialogue: 0,0:03:43.60,0:03:48.62,Default,,0,0,0,,To land a much smaller lander while the larger part with the fuel for the way back stays in the moon orbit
+Dialogue: 0,0:03:48.98,0:03:53.78,Default,,0,0,0,,So the Apollo spacecraft can be separated into the lunar module, the command module and the service module
+Dialogue: 0,0:03:53.78,0:03:59.10,Default,,0,0,0,,The Saturn-V rocket launches it and three astronauts from K...Kennedy into earth orbit
+Dialogue: 0,0:03:59.36,0:04:05.62,Default,,0,0,0,,By accelerating at the right time, the trans-lunar injection moved the spacecraft into a so-called free return orbit
+Dialogue: 0,0:04:05.62,0:04:08.86,Default,,0,0,0,,By just coasting, and we'll travel on the moon and back to earth
+Dialogue: 0,0:04:08.86,0:04:14.86,Default,,0,0,0,,Right at the beginning of this 3-day journey, the command, service module extracts the lunar module and docks with it
+Dialogue: 0,0:04:15.18,0:04:19.10,Default,,0,0,0,,By braking on the far side of the moon, the spacecraft enters a lunar orbit
+Dialogue: 0,0:04:20.10,0:04:23.02,Default,,0,0,0,,After two of the astronauts have climbed into the lunar module
+Dialogue: 0,0:04:23.02,0:04:27.82,Default,,0,0,0,,And after undocking, the lunar module brakes. This is called "powered descent"
+Dialogue: 0,0:04:31.20,0:04:32.38,Default,,0,0,0,,...and lands.
+Dialogue: 0,0:04:36.24,0:04:40.36,Default,,0,0,0,,After taking off again, the lunar module on the cruise with the command service module
+Dialogue: 0,0:04:40.36,0:04:45.22,Default,,0,0,0,,And the two astronauts climbed to the command module, and the lunar module is jettisoned
+Dialogue: 0,0:04:45.78,0:04:50.30,Default,,0,0,0,,The remaining command and service module accelerates at the far side of moon for trajectory towards earth.
+Dialogue: 0,0:04:50.30,0:04:53.02,Default,,0,0,0,,For entry only the command module remains.
+Dialogue: 0,0:04:53.02,0:04:58.32,Default,,0,0,0,,By the way, this excellent visualizations are form Jered Owen's "How the Apollo Works" videos
+Dialogue: 0,0:04:58.32,0:04:59.82,Default,,0,0,0,,Which we can highly recommend
+Dialogue: 0,0:05:01.18,0:05:05.02,Default,,0,0,0,,The command service module and the lunar module each contained one AGC
+Dialogue: 0,0:05:05.02,0:05:08.42,Default,,0,0,0,,It was the same hardware, but attached to partially different IO devices
+Dialogue: 0,0:05:08.42,0:05:10.98,Default,,0,0,0,,and with the software adapted for the specific spacecraft
+Dialogue: 0,0:05:10.98,0:05:14.98,Default,,0,0,0,,The astronauts interact with them through the display and keyboard units
+Dialogue: 0,0:05:14.98,0:05:18.18,Default,,0,0,0,,Which are mounted alongside these hundreds of switches
+Dialogue: 0,0:05:19.30,0:05:23.92,Default,,0,0,0,,The computer's responsibilities during the mission are to track the position and speed
+Dialogue: 0,0:05:23.92,0:05:26.25,Default,,0,0,0,,the so called state vector for both spacecraft
+Dialogue: 0,0:05:26.25,0:05:30.20,Default,,0,0,0,,Stabilize spacecraft's attitude, calculate and control engine burns
+Dialogue: 0,0:05:30.20,0:05:34.22,Default,,0,0,0,,And monitor or control the Saturn V during launch
+Dialogue: 0,0:05:37.57,0:05:41.95,Default,,0,0,0,,In order to understand how the Apollo computer does all this, we'll look at its architecture
+Dialogue: 0,0:05:41.95,0:05:45.34,Default,,0,0,0,,the hardware implementation, some of its interesting peripherals
+Dialogue: 0,0:05:45.34,0:05:50.42,Default,,0,0,0,,The system software, as well as the mission software
+Dialogue: 0,0:05:52.22,0:05:56.12,Default,,0,0,0,,The architecture of the AGC can be described as VonNeumann accumulator machine
+Dialogue: 0,0:05:56.12,0:05:58.12,Default,,0,0,0,,with 15-bit one's complement, big-endian arithmetic,
