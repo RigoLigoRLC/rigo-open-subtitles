@@ -31,3 +31,12 @@ Some comments about the long-waited "Minecraft Movie", by AntVenom.
 Should be used with: [Link](https://youtu.be/IDLVLS2P1wM)
 
 [Result Video](https://www.bilibili.com/video/BV1m4411h7yd/)
+
+## Everyone's first experience with Linux
+
+A funny video though, that's all.
+
+Should be used with: [Link](https://www.youtube.com/watch?v=ezUoiaoQCTs)
+
+[Result Video](https://www.bilibili.com/video/BV1dB4y1T7by/)
+
